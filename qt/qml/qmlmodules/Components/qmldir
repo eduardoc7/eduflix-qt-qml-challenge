@@ -1,0 +1,10 @@
+module Components
+Card 1.0 Card.qml
+CardList 1.0 CardList.qml
+MenuBarCustom 1.0 MenuBarCustom.qml
+Loading 1.0 Loading.qml
+InputFieldButton 1.0 InputFieldButton.qml
+ShowDetailsPopup 1.0 ShowDetailsPopup.qml
+TypeTvShowDetails 1.0 TypeTvShowDetails.qml
+singleton Fonts 1.0 Fonts.qml
+singleton Colors 1.0 Colors.qml
